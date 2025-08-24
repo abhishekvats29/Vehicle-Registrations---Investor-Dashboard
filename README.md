@@ -15,7 +15,7 @@
 - Python (Pandas, NumPy, Requests)
 - Streamlit (UI framework)
 - Plotly (Interactive charts)
-- Requests / BeautifulSoup (Data fetching)
+- Requests (Data fetching)
 - SQLAlchemy (Optional SQL integration)
 - Docker (For containerized deployment)
 
@@ -68,5 +68,5 @@ Optional – Run via Docker
 - Copyright © 2025 Abhishek Vats. All rights reserved.
 
 ## 📄 License
-- This project is Created as part of a hiring process assignment.
+- This project is Created as part of assignment.
 
